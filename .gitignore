@@ -1,0 +1,10 @@
+# Entornos virtuales y carpetas de dependencias
+node_modules/
+env/
+venv/
+.env
+
+# Archivos del sistema y de VS Code
+.vscode/
+.DS_Store
+Thumbs.db
