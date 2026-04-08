@@ -1,13 +1,13 @@
-# 🚀 Trabajo Colaborativo: Arquitectura de Microservicios y Patrones de Diseño
+# Trabajo Colaborativo: Arquitectura de Microservicios y Patrones de Diseño
 
 Este proyecto demuestra la implementación de una arquitectura moderna y desacoplada, utilizando **Microservicios**, **Arquitectura Hexagonal**, y patrones como **Publish-Subscribe** e **Inyección de Dependencia**.
 
-## 👥 Integrantes
+## Integrantes
 * María Fernanda Suárez Neuto
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 El sistema se ha dividido en dos microservicios independientes que se comunican mediante una **API REST**:
 
@@ -26,7 +26,7 @@ El sistema se ha dividido en dos microservicios independientes que se comunican 
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 ### Pre-requisitos
 * Python 3.10+
